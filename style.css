@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(110, 187, 255);
+}
+#score{
+    font-size: 50px;
+text-align: left;
+margin-left: 500px;
+}
+#timer{
+    font-size: 50px;
+    float: right;
+    margin-right: 500px;
+}
+#tobedrawn{
+    color:blueviolet;
+    font-size: 40px;
+}
+#yourSketch{
+    font-size: 40px;
+}
+#confidence{
+    font-size: 40px;
+}
